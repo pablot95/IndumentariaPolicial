@@ -405,7 +405,7 @@ nav.scrolled {
 }
 
 .hero-image {
-  flex: 0 0 45%;
+  flex: 0 0 70%;
   position: relative;
   opacity: 0;
   transform: translateX(60px);
